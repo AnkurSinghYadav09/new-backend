@@ -121,5 +121,12 @@
       "vote_count": 881
     }
   ],
-  "moviesBooked": []
+  "moviesBooked": [
+    {
+      "id": 1,
+      "movie_id": 2,
+      "name": "Sam",
+      "seat": "A2"
+    }
+  ]
 }
